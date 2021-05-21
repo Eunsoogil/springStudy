@@ -7,4 +7,10 @@ public class UFCCoach implements Coach {
 		return "UFC is tough man";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
